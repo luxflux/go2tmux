@@ -2,7 +2,7 @@
 
 Opens your current finder location in a new tmux window.
 
-# Requirement
+# Requirements
 
 * iTerm
 * tmux
